@@ -1,0 +1,49 @@
+{
+  "works": [
+    {
+      "id": "amazon-fba-lanstar-operations",
+      "image": "https://picsum.photos/id/237/1200/400",
+      "category": "E-commerce Operations",
+      "title": "Amazon FBA Growth & Data Analytics",
+      "summary": "Leveraging market-leading tools to manage high-volume inventory and algorithmic pricing.",
+      "description": "Led data-driven operations for an Amazon FBA company (Lanstar). I specialized in using historical data to predict market trends and automated pricing to maintain a competitive edge. My focus was on balancing sales velocity with high profit margins through precise inventory control.",
+      "results": [
+        "Used Keepa & AZ Insight to identify price elasticity and competitive entry points.",
+        "Managed complex supply chains in RestockPro to maintain 99%+ in-stock rates.",
+        "Deployed ChannelMax for real-time algorithmic repricing, maximizing Buy Box ownership."
+      ],
+      "tools": ["Keepa", "RestockPro", "AZ Insight", "ChannelMax", "Amazon Seller Central", "Helium 10"],
+      "platform": "Amazon FBA / Multi-Channel"
+    },
+    {
+      "id": "digital-marketing-seo-strategy",
+      "image": "https://picsum.photos/id/247/1200/400",
+      "category": "Digital Marketing",
+      "title": "Search Engine & Email Growth Strategy",
+      "summary": "Driving organic traffic and customer retention through SEO and automated email flows.",
+      "description": "Executed full-funnel digital marketing strategies to increase brand visibility and repeat purchases. This involved technical SEO audits to rank for high-intent keywords and the creation of automated email marketing systems to nurture leads and recover abandoned revenue.",
+      "results": [
+        "Optimized on-page SEO and metadata to improve organic search rankings for core product categories.",
+        "Developed automated email 'flows' in Klaviyo, increasing revenue from abandoned carts by 15%.",
+        "Managed social media content calendars to drive engagement and qualified traffic to storefronts."
+      ],
+      "tools": ["Klaviyo", "Google Search Console", "SEMrush", "Meta Ads Manager", "Canva", "Mailchimp"],
+      "platform": "Marketing & Social Media"
+    },
+    {
+      "id": "shopify-b2b-hatch-strategy",
+      "image": "https://picsum.photos/id/238/1200/400",
+      "category": "Shopify Management",
+      "title": "Shopify B2B Conversion Strategy",
+      "summary": "Bridging the gap between technical dental equipment and high-converting e-commerce.",
+      "description": "Strategizing for B2B e-commerce environments to drive lead generation and recurring revenue. By combining UX improvements with conversion rate optimization (CRO), I focus on making high-ticket items and daily clinical supplies easily accessible to professionals.",
+      "results": [
+        "Strategized B2B 'Request a Quote' flows for specialized dental hardware and operatory furniture.",
+        "Optimized Shopify 'Online Store 2.0' themes for speed and mobile responsiveness.",
+        "Utilized Heatmaps and session recordings to identify and remove friction points in the checkout process."
+      ],
+      "tools": ["Shopify Admin", "PageFly (CRO)", "Google Analytics 4", "Hotjar", "Lucky Orange"],
+      "platform": "Shopify"
+    }
+  ]
+}

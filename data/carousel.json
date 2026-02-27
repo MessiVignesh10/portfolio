@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "category": "E-commerce Operations",
+      "title": "Amazon FBA & Growth Analytics",
+      "summary": "Data-driven scaling using Keepa, ChannelMax, and RestockPro.",
+      "link": "work-detail.html?id=amazon-fba-lanstar-operations"
+    },
+    {
+      "category": "Digital Marketing",
+      "title": "SEO & Email Marketing Strategy",
+      "summary": "Driving visibility and retention through search and automation.",
+      "link": "work-detail.html?id=digital-marketing-seo-strategy"
+    },
+    {
+      "category": "Shopify Management",
+      "title": "Shopify B2B Strategy",
+      "summary": "Optimizing dental equipment sales and clinical supply retention.",
+      "link": "work-detail.html?id=shopify-b2b-hatch-strategy"
+    }
+  ]
+}

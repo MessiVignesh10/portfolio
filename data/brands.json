@@ -1,0 +1,44 @@
+{
+  "brands": [
+    {
+      "name": "Brand2",
+      "logo": "static/images/brand_logo/brand2.jpeg"
+    },
+    {
+      "name": "Brand1",
+      "logo": "static/images/brand_logo/brand1.jpeg"
+    },
+    {
+      "name": "Brand10",
+      "logo": "static/images/brand_logo/brand10.jpeg"
+    },
+    {
+      "name": "Brand3",
+      "logo": "static/images/brand_logo/brand3.jpeg"
+    },
+    {
+      "name": "Brand4",
+      "logo": "static/images/brand_logo/brand4.jpeg"
+    },
+    {
+      "name": "Brand5",
+      "logo": "static/images/brand_logo/brand5.jpeg"
+    },
+    {
+      "name": "Brand6",
+      "logo": "static/images/brand_logo/brand6.jpeg"
+    },
+    {
+      "name": "Brand7",
+      "logo": "static/images/brand_logo/brand7.jpeg"
+    },
+    {
+      "name": "Brand8",
+      "logo": "static/images/brand_logo/brand8.jpeg"
+    },
+    {
+      "name": "Brand9",
+      "logo": "static/images/brand_logo/brand9.jpeg"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "category": "Growth Engineering",
+      "title": "E-commerce Conversion & Scaling Strategy",
+      "summary": "Full-funnel optimization: From Shopify 2.0 infrastructure to Omnisend & Modash growth.",
+      "link": "work-detail.html?id=ecommerce-growth-optimization-strategy"
+    },
+    {
       "category": "E-commerce Operations",
       "title": "Amazon FBA & Growth Analytics",
       "summary": "Data-driven scaling using Keepa, ChannelMax, and RestockPro.",

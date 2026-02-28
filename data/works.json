@@ -1,6 +1,35 @@
 {
   "works": [
     {
+      "id": "ecommerce-growth-optimization-strategy",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=1200&h=400",
+      "category": "Growth & Conversion Optimization",
+      "title": "The E-commerce 360° Growth Audit",
+      "summary": "A comprehensive overhaul of site performance, mobile user experience, and automated retention loops.",
+      "description": "This project involved a deep-dive audit and execution of a growth strategy for a high-traffic Shopify store. The objective was to eliminate technical debt (slow speeds), fix high-friction mobile layouts, and implement a modern marketing tech stack including Omnisend and Modash to drive both traffic and recurring revenue.",
+      "results": [
+        "Infrastructure: Migrated legacy components to Shopify Online Store 2.0 for enhanced modularity and faster editing.",
+        "Performance: Resolved slow website loading issues through asset optimization and script minification to lower bounce rates.",
+        "Landing Page Design: Engineered high-converting custom Liquid sections to achieve a premium aesthetic without the bloat of PageFly.",
+        "Retention: Automated the '30-Day Reorder' follow-up email flow to maximize customer lifetime value (LTV).",
+        "Mobile UX: Re-engineered the mobile product discovery path to reduce vertical scroll fatigue and improve time-to-cart.",
+        "Social Proof: Integrated a site-wide customer review ecosystem to build immediate credibility and buyer trust.",
+        "Influencer Growth: Launched a data-driven influencer outreach program via Modash to drive targeted niche traffic.",
+        "Email Scaling: Leveraged Omnisend for SD to increase traffic through segmented campaigns and automation.",
+        "SEO: Executed a technical SEO keyword strategy to capture high-intent search traffic and improve organic rankings."
+      ],
+      "tools": [
+        "Shopify 2.0",
+        "Omnisend",
+        "Modash",
+        "Google PageSpeed",
+        "SEO Keywords",
+        "Liquid Architecture",
+        "Email Automation"
+      ],
+      "platform": "Shopify / Growth Tech Stack"
+    },
+    {
       "id": "amazon-fba-lanstar-operations",
       "image": "https://picsum.photos/id/237/1200/400",
       "category": "E-commerce Operations",

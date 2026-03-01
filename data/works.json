@@ -1,78 +1,66 @@
 {
-  "works": [
+  "id": "ecommerce-growth-optimization-strategy",
+  "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=1200&h=400",
+  "category": "Growth & Performance",
+  "title": "E-commerce 360° Sales Engine",
+  "summary": "A 9-point strategic overhaul to maximize conversion, retention, and organic reach.",
+  "description": "I executed a full-funnel audit and optimization plan for a Shopify-based brand, focusing on technical speed, user psychology, and automated marketing loops.",
+  "grid_modules": [
     {
-      "id": "ecommerce-growth-optimization-strategy",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=1200&h=400",
-      "category": "Growth & Conversion Optimization",
-      "title": "The E-commerce 360° Growth Audit",
-      "summary": "A comprehensive overhaul of site performance, mobile user experience, and automated retention loops.",
-      "description": "This project involved a deep-dive audit and execution of a growth strategy for a high-traffic Shopify store. The objective was to eliminate technical debt (slow speeds), fix high-friction mobile layouts, and implement a modern marketing tech stack including Omnisend and Modash to drive both traffic and recurring revenue.",
-      "results": [
-        "Infrastructure: Migrated legacy components to Shopify Online Store 2.0 for enhanced modularity and faster editing.",
-        "Performance: Resolved slow website loading issues through asset optimization and script minification to lower bounce rates.",
-        "Landing Page Design: Engineered high-converting custom Liquid sections to achieve a premium aesthetic without the bloat of PageFly.",
-        "Retention: Automated the '30-Day Reorder' follow-up email flow to maximize customer lifetime value (LTV).",
-        "Mobile UX: Re-engineered the mobile product discovery path to reduce vertical scroll fatigue and improve time-to-cart.",
-        "Social Proof: Integrated a site-wide customer review ecosystem to build immediate credibility and buyer trust.",
-        "Influencer Growth: Launched a data-driven influencer outreach program via Modash to drive targeted niche traffic.",
-        "Email Scaling: Leveraged Omnisend for SD to increase traffic through segmented campaigns and automation.",
-        "SEO: Executed a technical SEO keyword strategy to capture high-intent search traffic and improve organic rankings."
-      ],
-      "tools": [
-        "Shopify 2.0",
-        "Omnisend",
-        "Modash",
-        "Google PageSpeed",
-        "SEO Keywords",
-        "Liquid Architecture",
-        "Email Automation"
-      ],
-      "platform": "Shopify / Growth Tech Stack"
+      "title": "1. Speed Optimization",
+      "summary": "Fixing slow loading times.",
+      "details": "High bounce rates were caused by heavy assets. I implemented image lazy-loading, script minification, and app-weight reduction to bring the store to sub-3-second load times.",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=500&auto=format"
     },
     {
-      "id": "amazon-fba-lanstar-operations",
-      "image": "https://picsum.photos/id/237/1200/400",
-      "category": "E-commerce Operations",
-      "title": "Amazon FBA Growth & Data Analytics",
-      "summary": "Leveraging market-leading tools to manage high-volume inventory and algorithmic pricing.",
-      "description": "Led data-driven operations for an Amazon FBA company (Lanstar). I specialized in using historical data to predict market trends and automated pricing to maintain a competitive edge. My focus was on balancing sales velocity with high profit margins through precise inventory control.",
-      "results": [
-        "Used Keepa & AZ Insight to identify price elasticity and competitive entry points.",
-        "Managed complex supply chains in RestockPro to maintain 99%+ in-stock rates.",
-        "Deployed ChannelMax for real-time algorithmic repricing, maximizing Buy Box ownership."
-      ],
-      "tools": ["Keepa", "RestockPro", "AZ Insight", "ChannelMax", "Amazon Seller Central", "Helium 10"],
-      "platform": "Amazon FBA / Multi-Channel"
+      "title": "2. Shopify 2.0 Architecture",
+      "summary": "Modernizing the backend.",
+      "details": "Migrated the store to Shopify Online Store 2.0. This allows for modular sections on every page, making the site easier to manage and faster for customers to navigate.",
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=500&auto=format"
     },
     {
-      "id": "digital-marketing-seo-strategy",
-      "image": "https://picsum.photos/id/247/1200/400",
-      "category": "Digital Marketing",
-      "title": "Search Engine & Email Growth Strategy",
-      "summary": "Driving organic traffic and customer retention through SEO and automated email flows.",
-      "description": "Executed full-funnel digital marketing strategies to increase brand visibility and repeat purchases. This involved technical SEO audits to rank for high-intent keywords and the creation of automated email marketing systems to nurture leads and recover abandoned revenue.",
-      "results": [
-        "Optimized on-page SEO and metadata to improve organic search rankings for core product categories.",
-        "Developed automated email 'flows' in Klaviyo, increasing revenue from abandoned carts by 15%.",
-        "Managed social media content calendars to drive engagement and qualified traffic to storefronts."
-      ],
-      "tools": ["Klaviyo", "Google Search Console", "SEMrush", "Meta Ads Manager", "Canva", "Mailchimp"],
-      "platform": "Marketing & Social Media"
+      "title": "3. Custom Liquid Design",
+      "summary": "Clean layouts without bloat.",
+      "details": "Instead of using heavy apps like PageFly, I built custom Liquid sections. This provides a 'Beautiful Layout' aesthetic while maintaining maximum site speed.",
+      "image": "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?q=80&w=500&auto=format"
     },
     {
-      "id": "shopify-b2b-hatch-strategy",
-      "image": "https://picsum.photos/id/238/1200/400",
-      "category": "Shopify Management",
-      "title": "Shopify B2B Conversion Strategy",
-      "summary": "Bridging the gap between technical dental equipment and high-converting e-commerce.",
-      "description": "Strategizing for B2B e-commerce environments to drive lead generation and recurring revenue. By combining UX improvements with conversion rate optimization (CRO), I focus on making high-ticket items and daily clinical supplies easily accessible to professionals.",
-      "results": [
-        "Strategized B2B 'Request a Quote' flows for specialized dental hardware and operatory furniture.",
-        "Optimized Shopify 'Online Store 2.0' themes for speed and mobile responsiveness.",
-        "Utilized Heatmaps and session recordings to identify and remove friction points in the checkout process."
-      ],
-      "tools": ["Shopify Admin", "PageFly (CRO)", "Google Analytics 4", "Hotjar", "Lucky Orange"],
-      "platform": "Shopify"
+      "title": "4. 30-Day Retention Loop",
+      "summary": "Automated reorder reminders.",
+      "details": "Developed an automated '30-day reorder' email sequence. This creates a predictable revenue stream by reminding customers when they are likely running low on product.",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=500&auto=format"
+    },
+    {
+      "title": "5. Mobile UX Overhaul",
+      "summary": "Eliminating scroll fatigue.",
+      "details": "The mobile version was too long. I restructured the vertical hierarchy, moving products and CTAs higher ('above the fold') to reduce scrolling and increase Add-to-Cart rates.",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?q=80&w=500&auto=format"
+    },
+    {
+      "title": "6. Social Proof Engine",
+      "summary": "Building trust with reviews.",
+      "details": "Implemented a customer review system for every product. Social proof is the #1 driver of conversion for first-time visitors, and reviews now build immediate credibility.",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c29596ad?q=80&w=500&auto=format"
+    },
+    {
+      "title": "7. Modash Influencers",
+      "summary": "Targeted traffic generation.",
+      "details": "Using Modash, I identified and onboarded niche influencers. This provided a steady stream of highly-qualified traffic that was pre-warmed by trusted creators.",
+      "image": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?q=80&w=500&auto=format"
+    },
+    {
+      "title": "8. Omnisend Growth (SD)",
+      "summary": "Scaling traffic via email.",
+      "details": "Built out the Omnisend strategy for SD. We focused on segmented campaigns that drove a double-digit increase in repeat customer traffic through personalized messaging.",
+      "image": "https://images.unsplash.com/photo-1557200134-90327ee9fafa?q=80&w=500&auto=format"
+    },
+    {
+      "title": "9. SEO Keyword Mastery",
+      "summary": "Dominating organic search.",
+      "details": "Performed deep keyword research to optimize every product page. This strategy improved organic rankings, resulting in more 'free' traffic that converts at a higher rate.",
+      "image": "https://images.unsplash.com/photo-1571721795195-a2ca2d3370a9?q=80&w=500&auto=format"
     }
-  ]
+  ],
+  "tools": ["Shopify 2.0", "Omnisend", "Modash", "Google PageSpeed", "SEO Keywords", "Liquid Architecture", "Email Automation"],
+  "platform": "Shopify Growth Stack"
 }

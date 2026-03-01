@@ -7,60 +7,60 @@
   "description": "I executed a full-funnel audit and optimization plan for a Shopify-based brand, focusing on technical speed, user psychology, and automated marketing loops.",
   "grid_modules": [
     {
-      "title": "1. Speed Optimization",
-      "summary": "Fixing slow loading times.",
-      "details": "High bounce rates were caused by heavy assets. I implemented image lazy-loading, script minification, and app-weight reduction to bring the store to sub-3-second load times.",
+      "title": "01. Speed Optimization",
+      "summary": "Sub-3-second load times.",
+      "details": "High bounce rates were caused by heavy assets. I implemented image lazy-loading, script minification, and app-weight reduction.",
       "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=500&auto=format"
     },
     {
-      "title": "2. Shopify 2.0 Architecture",
-      "summary": "Modernizing the backend.",
-      "details": "Migrated the store to Shopify Online Store 2.0. This allows for modular sections on every page, making the site easier to manage and faster for customers to navigate.",
+      "title": "02. Shopify 2.0 Arch",
+      "summary": "Modular Backend Power.",
+      "details": "Migrated the store to Shopify Online Store 2.0. This allows for modular sections on every page, making the site faster to navigate.",
       "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=500&auto=format"
     },
     {
-      "title": "3. Custom Liquid Design",
-      "summary": "Clean layouts without bloat.",
-      "details": "Instead of using heavy apps like PageFly, I built custom Liquid sections. This provides a 'Beautiful Layout' aesthetic while maintaining maximum site speed.",
+      "title": "03. Custom Liquid UX",
+      "summary": "No-app Page Building.",
+      "details": "Built custom Liquid sections to provide a 'Beautiful Layout' aesthetic while maintaining maximum site speed without PageFly bloat.",
       "image": "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?q=80&w=500&auto=format"
     },
     {
-      "title": "4. 30-Day Retention Loop",
-      "summary": "Automated reorder reminders.",
-      "details": "Developed an automated '30-day reorder' email sequence. This creates a predictable revenue stream by reminding customers when they are likely running low on product.",
+      "title": "04. 30-Day Retention",
+      "summary": "Automated Reorder Loop.",
+      "details": "Developed an automated '30-day reorder' email sequence, creating a predictable revenue stream from repeat customers.",
       "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=500&auto=format"
     },
     {
-      "title": "5. Mobile UX Overhaul",
-      "summary": "Eliminating scroll fatigue.",
-      "details": "The mobile version was too long. I restructured the vertical hierarchy, moving products and CTAs higher ('above the fold') to reduce scrolling and increase Add-to-Cart rates.",
+      "title": "05. Mobile UX Overhaul",
+      "summary": "Reduced Scroll Fatigue.",
+      "details": "Restructured vertical hierarchy to move high-intent CTAs higher, drastically reducing the need to scroll to find products.",
       "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?q=80&w=500&auto=format"
     },
     {
-      "title": "6. Social Proof Engine",
-      "summary": "Building trust with reviews.",
-      "details": "Implemented a customer review system for every product. Social proof is the #1 driver of conversion for first-time visitors, and reviews now build immediate credibility.",
+      "title": "06. Social Proof Engine",
+      "summary": "Instant Trust Building.",
+      "details": "Implemented a site-wide customer review system. Social proof is the primary driver for conversion with first-time visitors.",
       "image": "https://images.unsplash.com/photo-1521791136064-7986c29596ad?q=80&w=500&auto=format"
     },
     {
-      "title": "7. Modash Influencers",
-      "summary": "Targeted traffic generation.",
-      "details": "Using Modash, I identified and onboarded niche influencers. This provided a steady stream of highly-qualified traffic that was pre-warmed by trusted creators.",
+      "title": "07. Modash Influencers",
+      "summary": "Targeted Traffic Growth.",
+      "details": "Identified and onboarded niche creators using Modash to provide a steady stream of pre-warmed, high-intent traffic.",
       "image": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?q=80&w=500&auto=format"
     },
     {
-      "title": "8. Omnisend Growth (SD)",
-      "summary": "Scaling traffic via email.",
-      "details": "Built out the Omnisend strategy for SD. We focused on segmented campaigns that drove a double-digit increase in repeat customer traffic through personalized messaging.",
+      "title": "08. Omnisend (SD)",
+      "summary": "Email Traffic Scaling.",
+      "details": "Built a comprehensive Omnisend strategy for SD, focusing on segmented campaigns to drive repeat customer traffic.",
       "image": "https://images.unsplash.com/photo-1557200134-90327ee9fafa?q=80&w=500&auto=format"
     },
     {
-      "title": "9. SEO Keyword Mastery",
-      "summary": "Dominating organic search.",
-      "details": "Performed deep keyword research to optimize every product page. This strategy improved organic rankings, resulting in more 'free' traffic that converts at a higher rate.",
+      "title": "09. SEO Mastery",
+      "summary": "Organic Search Dominance.",
+      "details": "Deep keyword research and on-page optimization to capture high-intent traffic and reduce reliance on paid ads.",
       "image": "https://images.unsplash.com/photo-1571721795195-a2ca2d3370a9?q=80&w=500&auto=format"
     }
   ],
-  "tools": ["Shopify 2.0", "Omnisend", "Modash", "Google PageSpeed", "SEO Keywords", "Liquid Architecture", "Email Automation"],
+  "tools": ["Shopify 2.0", "Omnisend", "Modash", "SEO Keywords", "Liquid Architecture"],
   "platform": "Shopify Growth Stack"
 }

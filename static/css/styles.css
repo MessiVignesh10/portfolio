@@ -792,4 +792,87 @@ a {
   .work-grid {
     grid-template-columns: 1fr;
   }
+  .strategy-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Perfect 3x3 on desktop */
+    gap: 20px;
+    margin-top: 30px;
+}
+
+.grid-card {
+    background: #111;
+    border: 1px solid #222;
+    border-radius: 15px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    position: relative;
+}
+
+.grid-card:hover {
+    transform: translateY(-10px);
+    border-color: #ffd700; /* Your accent color */
+    box-shadow: 0 10px 30px rgba(255, 215, 0, 0.1);
+}
+
+.grid-img {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+    opacity: 0.7;
+    transition: 0.3s;
+}
+
+.grid-card:hover .grid-img {
+    opacity: 1;
+}
+
+.grid-card-content {
+    padding: 20px;
+}
+
+.grid-card h3 {
+    font-size: 1.1rem;
+    margin-bottom: 8px;
+    color: #fff;
+}
+
+.grid-summary {
+    font-size: 0.9rem;
+    color: #ffd700;
+    font-weight: 500;
+}
+
+.grid-details {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s ease;
+    font-size: 0.85rem;
+    line-height: 1.6;
+    color: #aaa;
+    margin-top: 0;
+}
+
+/* State when clicked */
+.grid-card.expanded .grid-details {
+    max-height: 200px;
+    margin-top: 15px;
+}
+
+.click-more {
+    display: block;
+    margin-top: 15px;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #444;
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 992px) {
+    .strategy-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 600px) {
+    .strategy-grid { grid-template-columns: 1fr; }
+}
 }
